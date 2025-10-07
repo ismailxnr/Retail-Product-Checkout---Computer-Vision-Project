@@ -7,7 +7,7 @@ We implemented a synthetic dataset generation pipeline, domain adaptation (light
 
 ### 📄 Project Proposal  
 You can view or download the full proposal document below:  
-> [📘 **BIM496_Computer_Vision_Term_Project_Proposal.pdf**](./BIM496_Computer_Vision_Term_Project_Proposal.pdf)
+> [📘 **BIM496_Computer_Vision_Term_Project_Proposal.pdf**](BIM496_Computer_Vision_Term_Project_Proposal_Multi_Class_Product_Counting___Recognition_for_Automated_Retail_Checkout.pdf)
 
 <details>
 <summary>🔍 Click to preview key sections</summary>
